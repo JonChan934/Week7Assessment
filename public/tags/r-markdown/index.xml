@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on A Hugo website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 22:54:02 +0000</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carbon Dioxide Emissions</title>
+      <link>/2022/10/31/carbon-dioxide-emissions/</link>
+      <pubDate>Mon, 31 Oct 2022 22:54:02 +0000</pubDate>
+      
+      <guid>/2022/10/31/carbon-dioxide-emissions/</guid>
+      <description>Estimated CO2 emissions over the yearsWe can see that total emissions have been steadily increasing over the past half decade while emissions per person has actually been decreasing in the past 15 years.</description>
+    </item>
+    
+  </channel>
+</rss>
